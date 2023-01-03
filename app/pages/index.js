@@ -13,12 +13,12 @@ export default function Home() {
     <div className="bg-slate-900 h-screen w-screen font-sans">
   <div className="flex justify-center items-center justify-items-center h-full text-white">
     <div>
-    <h1 className="text-2xl">Sujet de Stage Pupperteer</h1>
+    <h1 className="text-2xl">Internship Subject Pupperteer - Martin Huck</h1>
     <div className="flex justify-center items-center justify-items-center w-full mt-8">
     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded animate-bounce" onClick={myalert}> Click me </button>
     </div>
     <div className="flex justify-center items-center justify-items-center w-full mt-8">
-      You can also test on theses websites : 
+      You can also test on these websites : 
     </div>
     <div className="flex justify-center items-center justify-items-center w-full mt-8">
     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded animate-bounce"><a href = "https://demoqa.com/alerts"> Site 1</a> </button>
