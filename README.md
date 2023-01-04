@@ -12,7 +12,7 @@ title: "Assignment Internship"
 # Etapes
 
 ## Github: 
-- Installer Github sur Windows: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+- Installer Git sur Windows: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 - Se placer dans un répertoire et éxécuter la commande : 
 > git clone https://github.com/LeZhuck/pupperteer-popup.git
 
