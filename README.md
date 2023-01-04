@@ -1,4 +1,9 @@
-# pupperteer-popup
+---
+Authors: Martin HUCK
+title: "Assignment Internship"
+---
+
+# Assignment XSS Tooling + DOM XSS Research
 
 # Consigne
 
@@ -25,6 +30,15 @@ Pour tester le programme qui identifie une popup sur un site, il faut taper dans
 
 Cela vous dirigera vers le site  : 
 https://pupperteer-popup-martin-huck.vercel.app/ que j'ai programmé et déployé pour cet assignment. 
+
+# Résultat attendu
+
+Lorsque vous cliquez sur un bouton popup, le terminal affichera un message "Alert Detected" avec le message de l'alerte. 
+
+# Lien
+
+Site Internet : https://pupperteer-popup-martin-huck.vercel.app/ 
+
 
 
 
